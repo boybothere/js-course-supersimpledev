@@ -1,4 +1,4 @@
-```c
+
 
 1a. alert('Good morning!');
 
@@ -20,4 +20,4 @@
 
 1j. document.body.innerHTML = '';
 
-```
+
