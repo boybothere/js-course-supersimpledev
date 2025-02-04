@@ -1,0 +1,154 @@
+4a. <button>Click</button>
+ 
+4b. <button>
+      Adrian J
+    </button>
+    <button>
+      Burgers
+    </button>
+
+4c. <p>Hello, world!</p>
+
+4d. <p>Hello, world!</p>
+    <p>Today I ate a delicious lunch!</p>
+
+4e. <style>
+    .cart-btn{
+        background-color: yellow;
+    }
+    .buy-btn{
+        
+        background-color: orange;
+    }
+    </style>
+    <button class="cart-btn">
+        Add to cart
+    </button>
+    <button class="buy-btn">
+        Buy now
+    </button>
+
+4f. <!DOCTYPE html>
+    <head>
+    <style>
+        .cart-btn{
+            background-color: yellow;
+        }
+        .buy-btn{
+            
+            background-color: orange;
+        }
+    </style>
+    </head>
+    <body>
+        <button class="cart-btn">
+            Add to cart
+        </button>
+        <button class="buy-btn">
+            Buy now
+        </button>
+    </body>
+    </html>
+
+4g. <!DOCTYPE html>
+    <head>
+    <title>Buttons</title>
+    <style>
+        .cart-btn{
+            background-color: yellow;
+        }
+        .buy-btn{
+            
+            background-color: orange;
+        }
+    </style>
+    </head>
+    <body>
+        <button class="cart-btn">
+            Add to cart
+        </button>
+        <button class="buy-btn">
+            Buy now
+        </button>
+    </body>
+    </html>
+
+
+4h. <!DOCTYPE html>
+    <head>
+    <title>Buttons</title>
+    <style>
+        .cart-btn{
+            background-color: yellow;
+        }
+        .buy-btn{
+            
+            background-color: orange;
+        }
+    </style>
+    </head>
+    <body>
+        <button class="cart-btn">
+            Add to cart
+        </button>
+        <button class="buy-btn">
+            Buy now
+        </button>
+        <script>
+            console.log('Welcome!');
+        </script>
+    </body>
+    </html>
+
+4i. <!DOCTYPE html>
+    <head>
+    <style>
+        .cart-btn{
+            background-color: yellow;
+        }
+        .buy-btn{
+            
+            background-color: orange;
+        }
+    </style>
+    </head>
+    <body>
+        <p>Adults Plain Cotton T-Shirt</p>
+        <p>Price: $7.99</p>
+        <button class="cart-btn">
+            Add to cart
+        </button>
+        <button class="buy-btn">
+            Buy now
+        </button>
+    </body>
+    </html>
+
+4j. <!DOCTYPE html>
+    <head>
+    <style>
+        .cart-btn{
+            background-color: yellow;
+        }
+        .buy-btn{
+            
+            background-color: orange;
+        }
+    </style>
+    </head>
+    <body>
+        <p>Adults Plain Cotton T-Shirt</p>
+        <p>Price: $7.99</p>
+        <button class="cart-btn" onclick="alert('Added');">
+            Add to cart
+        </button>
+        <button class="buy-btn" onclick="console.log('Loading...');alert('Purchased');">
+            Buy now
+        </button>
+    </body>
+    </html>
+
+
+
+
+
