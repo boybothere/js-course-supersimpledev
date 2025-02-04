@@ -1,0 +1,93 @@
+5a.  <script>
+      let name='Adrian';
+     </script>
+
+5b.  <script>
+      let name='Adrian';
+      console.log(`My name is: ${name}`);
+     </script>
+
+5c.  <script>
+      let cost = 5 + 2 * 3 + 9;
+     </script>
+
+5d.   <script>
+      let cost = 5 + 2 * 3 + 9;
+      console.log(`Cost of food: $${cost}`);
+      </script>
+
+5e.  <script>
+      let cost = 5 + 2 * 3 + 9;
+      let tax = cost * 0.1;
+     </script>
+
+5f.  <script>
+      let cost = 5 + 2 * 3 + 9;
+      let tax = cost * 0.1;
+      console.log(`Tax(10%): $${tax}`);
+     </script>
+
+5g. <script>
+    let cost = 5 + 2 * 3 + 9;
+    let tax = cost * 0.1;
+    let totalCost = cost + tax;
+    console.log(`Total Cost: $${totalCost}`);
+    </script>
+
+5h. <button onclick="
+    cartQuantity+=4;
+    console.log(`Cart Quantity: ${cartQuantity}`);
+    ">
+        +4
+    </button>
+
+    <button onclick="
+    cartQuantity+=5;
+    console.log(`Cart Quantity: ${cartQuantity}`);
+    ">
+        +5
+    </button>
+
+5i.  <button onclick="
+      cartQuantity=cartQuantity-1;
+      console.log(`Removed from cart!\nCart Quantity: ${cartQuantity}`);
+      ">
+          Remove from Cart
+      </button>
+
+  5j. <button onclick="
+      cartQuantity=cartQuantity-2;
+      console.log(`Cart Quantity: ${cartQuantity}`);
+      ">
+          -2
+      </button>
+
+      <button onclick="
+      cartQuantity=cartQuantity-3;
+      console.log(`Cart Quantity: ${cartQuantity}`);
+      ">
+          -3
+      </button>
+
+ 5k.  <button onclick="
+      cartQuantity-=1;
+      console.log(`Removed from cart!\nCart Quantity: ${cartQuantity}`);
+      ">
+          Remove from Cart
+      </button>
+
+      <button onclick="
+      cartQuantity-=2;
+      console.log(`Cart Quantity: ${cartQuantity}`);
+      ">
+          -2
+      </button>
+
+      <button onclick="
+      cartQuantity-=3;
+      console.log(`Cart Quantity: ${cartQuantity}`);
+      ">
+          -3
+      </button>
+
+5l. 
